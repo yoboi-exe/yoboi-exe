@@ -23,7 +23,6 @@ I'm always eager to learn, collaborate, and create. Let’s build something awes
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yoboi-exe&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yoboi-exe&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoboi-exe&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yoboi-exe&theme=nord&no-frame=true&no-bg=false&margin-w=4)
