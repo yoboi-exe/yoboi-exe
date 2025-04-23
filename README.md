@@ -3,14 +3,14 @@
 Hi! I'm Chirodeep Dutta, a tech enthusiast with a creative edge, currently pursuing a Bachelor of Computer Applications (BCA).<br>
 I’m passionate about building practical solutions to real-world challenges—whether it's through Arduino-based hardware projects or impactful software applications.<br><br>
 
-From designing drones for rescue missions to developing websites that celebrate India’s rich heritage, I love blending technology with purpose.<br><br>
+From designing drones for rescue missions to developing websites that celebrate India’s rich heritage, I love blending technology with purpose.<br>
 
-I'm also actively involved with Estrella Productions, my college’s official film club, where I manage sponsorships for events like Celluloid 2024.<br><br>
+I'm also actively involved with Estrella Productions, my college’s official film club, where I manage sponsorships for events like Celluloid 2024.<br>
 
 My favorite programming language is Python—its simplicity and power never fail to inspire me.<br>
-I've built several projects using Python, including a Tkinter-based Budget Tracker & Visualizer, and I've explored Django for building dynamic, full-stack web applications.<br><br>
+I've built several projects using Python, including a Tkinter-based Budget Tracker & Visualizer, and I've explored Django for building dynamic, full-stack web applications.<br>
 
-When I’m not coding or building circuits, you’ll probably find me brainstorming ideas, riding my bike, or spending time with people who matter most.<br><br>
+When I’m not coding or building circuits, you’ll probably find me brainstorming ideas, riding my bike, or spending time with people who matter most.<br>
 
 I'm always eager to learn, collaborate, and create. Let’s build something awesome together! 🚀<br><br>
 
