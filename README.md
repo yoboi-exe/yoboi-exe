@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi! I'm Chirodeep Dutta, a tech enthusiast with a creative edge, currently pursuing a Bachelor of Computer Applications (BCA).<br>
-I’m passionate about building practical solutions to real-world challenges—whether it's through Arduino-based hardware projects or impactful software applications.<br><br>
+I’m passionate about building practical solutions to real-world challenges—whether it's through Arduino-based hardware projects or impactful software applications.<br>
 
 From designing drones for rescue missions to developing websites that celebrate India’s rich heritage, I love blending technology with purpose.<br>
 
