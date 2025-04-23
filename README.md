@@ -1,6 +1,18 @@
 
 # 💫 About Me:
-Hi! I'm Chirodeep Dutta, a tech enthusiast with a creative edge. Currently pursuing BCA, I love building practical solutions to real-world problems—be it through innovative Arduino projects or impactful software apps. From designing drones for rescue missions to crafting websites that showcase India's rich heritage, I enjoy blending technology with purpose.<br><br>I’m also actively involved with Estrella Productions, where I handle sponsorships for events like Celluloid 2024. When I’m not busy with code or circuits, you’ll probably find me brainstorming new ideas, riding my bike, or spending quality time with the people who matter most to me.<br><br>Python is my absolute favorite programming language—simple yet powerful. I've worked on several projects using Python, including a Tkinter-based Budget Tracker & Visualizer, and I've also dived into Django for building dynamic websites. I enjoy creating tools that are both functional and user-friendly.<br><br>I believe in making technology accessible and meaningful, and I’m always on the lookout for exciting projects, collaborations, and learning opportunities.<br><br>
+Hi! I'm Chirodeep Dutta, a tech enthusiast with a creative edge, currently pursuing a Bachelor of Computer Applications (BCA).<br>
+I’m passionate about building practical solutions to real-world challenges—whether it's through Arduino-based hardware projects or impactful software applications.<br><br>
+
+From designing drones for rescue missions to developing websites that celebrate India’s rich heritage, I love blending technology with purpose.<br><br>
+
+I'm also actively involved with Estrella Productions, my college’s official film club, where I manage sponsorships for events like Celluloid 2024.<br><br>
+
+My favorite programming language is Python—its simplicity and power never fail to inspire me.<br>
+I've built several projects using Python, including a Tkinter-based Budget Tracker & Visualizer, and I've explored Django for building dynamic, full-stack web applications.<br><br>
+
+When I’m not coding or building circuits, you’ll probably find me brainstorming ideas, riding my bike, or spending time with people who matter most.<br><br>
+
+I'm always eager to learn, collaborate, and create. Let’s build something awesome together! 🚀<br><br>
 
 
 ## 🌐 Socials:
